@@ -7,8 +7,8 @@ Clutch is a play-money moment market for sports, in the style of memecoins. Anyo
 **Live demo:** https://alagiewon.github.io/clutch-app/
 
 <p>
-  <img src="screenshots/01-board.png" width="240" alt="Live board">
-  <img src="screenshots/02-coin.png" width="240" alt="Coin page">
+  <img src="01-board.png" width="240" alt="Live board">
+  <img src="02-coin.png" width="240" alt="Coin page">
 </p>
 
 ## What it does
