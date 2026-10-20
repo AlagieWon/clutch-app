@@ -1,6 +1,13 @@
-# Clutch prototype (self-hosted)
+# Clutch prototype
 
-Play-money prototype. Every trader except you is a bot.
+Launch coins on live sports moments. Play-money prototype: every trader except you is a bot.
+
+**Live demo:** https://alagiewon.github.io/clutch-app/ (on iPhone: open in Safari → Share → Add to Home Screen)
+
+<p><img src="01-board.png" width="300" alt="Markets board"> <img src="02-coin.png" width="300" alt="Coin page"></p>
+
+## Updating the live site
+Upload the new files over the old ones and bump `build` in `version.json` (and the matching `var B=` near the top of `index.html`). Phones that already have Clutch open reload to the new build automatically.
 
 ## Put it online (pick one, ~2 minutes)
 - **Netlify Drop:** go to app.netlify.com/drop and drag this whole folder onto the page. You get a link immediately.
