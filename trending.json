@@ -1,0 +1,227 @@
+{
+ "updated": "2026-10-20T08:00:00-04:00",
+ "items": [
+  {
+   "id": "t_rays_pennant_g6",
+   "ticker": "RAYSWS",
+   "headline": "Rays beat Guardians 7-3 in Game 6 to win the AL pennant",
+   "line": "Junior Caminero's first career postseason homer and a Yandy Díaz two-run shot seal it at Tropicana Field. Tampa Bay meets Milwaukee in a World Series that will crown a first-time champion.",
+   "sport": "Baseball",
+   "cat": "relic",
+   "play": "swing",
+   "athlete": "Junior Caminero",
+   "sb": {
+    "a": "CLE",
+    "as": 3,
+    "b": "TB",
+    "bs": 7
+   },
+   "clock": "FINAL",
+   "date": "Oct 19, 2026",
+   "stat": "Freddy Peralta named ALCS MVP · Cleveland's drought hits 78 years",
+   "buzz": 92,
+   "spotted": "2026-10-19T23:30:00-04:00",
+   "source": {
+    "name": "MLB.com",
+    "url": "https://www.mlb.com/news/rays-win-alcs-2026"
+   }
+  },
+  {
+   "id": "t_reese_finals_g2",
+   "ticker": "REESE30",
+   "headline": "Angel Reese drops 30 and 16 as the Dream even the WNBA Finals",
+   "line": "Atlanta wins Game 2 79-65 at Chase Center, closing the third quarter on a 15-2 run. The series heads to Atlanta for Game 3 on Wednesday.",
+   "sport": "Basketball",
+   "cat": "career",
+   "thesis": "A Finals takeover like this turns Reese from rebounder into the face of a title team.",
+   "play": "shot",
+   "athlete": "Angel Reese",
+   "sb": {
+    "a": "ATL",
+    "as": 79,
+    "b": "GSV",
+    "bs": 65
+   },
+   "clock": "FINAL",
+   "date": "Oct 19, 2026",
+   "stat": "30 pts, 16 reb, 2 blk · Series tied 1-1",
+   "buzz": 88,
+   "spotted": "2026-10-19T22:30:00-04:00",
+   "source": {
+    "name": "Bleacher Report",
+    "url": "https://bleacherreport.com/articles/25513372-angel-reese-dream-beat-valkyries-wnba-finals-game-2-box-score-stats-highlights-top-players"
+   }
+  },
+  {
+   "id": "t_lebron_sixers_debut_live",
+   "live": true,
+   "ticker": "LEBRON76",
+   "headline": "LeBron's 76ers debut comes on the Knicks' banner night at MSG tonight",
+   "line": "New York raises its first championship banner since 1973 before tip-off, then opens its title defense against a Philadelphia side debuting LeBron James and Jaylen Brown.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "dunk",
+   "athlete": "LeBron James",
+   "sb": null,
+   "clock": "Today · 7:00 PM ET",
+   "date": "Oct 20, 2026",
+   "stat": "LeBron's 24th NBA season · NBC / Peacock",
+   "buzz": 86,
+   "spotted": "2026-10-20T07:00:00-04:00",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": "https://sports.yahoo.com/articles/nba-opening-night-2026-watch-023940117.html"
+   }
+  },
+  {
+   "id": "t_mustapha_mnf_stop",
+   "ticker": "NINERS60",
+   "headline": "Malik Mustapha jars a 4th-down end-zone ball loose as 49ers hold off Commanders",
+   "line": "San Francisco led 20-3 at half, then survived a Washington comeback. Mustapha forced the ball out from Treylon Burks with 1:54 left and a sack ended it.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "athlete": "Malik Mustapha",
+   "sb": {
+    "a": "WSH",
+    "as": 17,
+    "b": "SF",
+    "bs": 23
+   },
+   "clock": "FINAL",
+   "date": "Oct 19, 2026",
+   "stat": "49ers 6-0 · McCaffrey 2 rush TD",
+   "buzz": 76,
+   "spotted": "2026-10-19T23:45:00-04:00",
+   "source": {
+    "name": "NBC Sports / PFT",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-hang-on-for-23-17-win-over-commanders"
+   }
+  },
+  {
+   "id": "t_kulusevski_526_days",
+   "ticker": "KULU526",
+   "headline": "Dejan Kulusevski returns after 526 days as Spurs finally win",
+   "line": "Tottenham beat Coventry 3-1 for their first league win of the season. Roberto De Zerbi said he brought Kulusevski on for the supporters.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "celebrate",
+   "athlete": "Dejan Kulusevski",
+   "sb": {
+    "a": "TOT",
+    "as": 3,
+    "b": "COV",
+    "bs": 1
+   },
+   "clock": "FT",
+   "date": "Oct 19, 2026",
+   "stat": "Off the bench late after 526 days out · Spurs up to 16th",
+   "buzz": 72,
+   "spotted": "2026-10-19T17:00:00-04:00",
+   "source": {
+    "name": "Sky Sports",
+    "url": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/report/559513"
+   }
+  },
+  {
+   "id": "t_vols_cigar_fine",
+   "ticker": "VOLCIGAR",
+   "headline": "Tennessee AD lights a cigar on the field as Vols' Alabama upset costs $500K",
+   "line": "Fans stormed Neyland Stadium after a 26-10 win over Alabama, sealed by an end-zone interception. Danny White celebrated with a victory cigar amid the crowd.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "celebrate",
+   "athlete": "Danny White",
+   "sb": {
+    "a": "ALA",
+    "as": 10,
+    "b": "TENN",
+    "bs": 26
+   },
+   "clock": "FINAL",
+   "date": "Oct 17, 2026",
+   "stat": "$500,000 SEC field-storming fine · Final pass picked off in end zone",
+   "buzz": 68,
+   "spotted": "2026-10-19T06:23:00-04:00",
+   "source": {
+    "name": "OutKick",
+    "url": "https://www.foxnews.com/outkick-sports/tennessee-beat-alabama-smoked-cigars-helped-fund-kalen-deboer-nil-500k-field-storming-fine"
+   }
+  },
+  {
+   "id": "t_guler_sevilla_red",
+   "ticker": "GULERRED",
+   "headline": "Arda Güler scores a rocket and dodges a red as Madrid beat Sevilla 4-1",
+   "line": "Sevilla say Güler struck Peque off the ball before his 30th-minute opener. Juan Iglesias: \"I think there was an act of aggression.\" VAR stayed out a week before the Clásico.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "athlete": "Arda Güler",
+   "sb": {
+    "a": "RMA",
+    "as": 4,
+    "b": "SEV",
+    "bs": 1
+   },
+   "clock": "FT",
+   "date": "Oct 18, 2026",
+   "stat": "Mbappé scores twice · Clásico at Barcelona Oct 25",
+   "buzz": 66,
+   "spotted": "2026-10-18T13:30:00-04:00",
+   "source": {
+    "name": "beIN Sports",
+    "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/sevilla-furious-over-refereeing-decision-involving-arda-g%C3%BCler-2026-10-18"
+   }
+  },
+  {
+   "id": "t_packers_cage_dak",
+   "ticker": "CAGEDAK",
+   "headline": "Packers pick off Dak twice inside their 30 and beat Dallas 23-13 on SNF",
+   "line": "Evan Williams and Brandon Cisse intercept Prescott, and Dallas is shut out in a first half for the first time since November 2021. Brian Schottenheimer: \"We're in a hole.\"",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "athlete": "Evan Williams",
+   "sb": {
+    "a": "DAL",
+    "as": 13,
+    "b": "GB",
+    "bs": 23
+   },
+   "clock": "FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "GB 14 or fewer allowed 3 straight · 22 total penalties",
+   "buzz": 62,
+   "spotted": "2026-10-18T23:30:00-04:00",
+   "source": {
+    "name": "ABC News (AP)",
+    "url": "https://abcnews.com/Sports/wireStory/jordan-love-green-bays-defense-lead-packers-23-137370163"
+   }
+  },
+  {
+   "id": "t_kaprizov_fastest_10",
+   "ticker": "KAPRIZOV10",
+   "headline": "Kirill Kaprizov becomes the fastest Wild player to 10 goals",
+   "line": "His short-side snipe past Cam Talbot is the winner in a 2-1 win over Columbus, needing nine games to beat Brian Rolston's old mark of 12.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "athlete": "Kirill Kaprizov",
+   "sb": {
+    "a": "CBJ",
+    "as": 1,
+    "b": "MIN",
+    "bs": 2
+   },
+   "clock": "FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "NHL-leading 10 goals in 9 games · 78th career GWG, 3rd in Wild history",
+   "buzz": 55,
+   "spotted": "2026-10-18T21:00:00-04:00",
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/wild/news/columbus-blue-jackets-minnesota-wild-game-recap-october-18-2026-x1322"
+   }
+  }
+ ]
+}

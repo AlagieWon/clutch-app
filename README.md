@@ -1,35 +1,31 @@
-# Clutch
+# Clutch prototype (self-hosted)
 
-**Launch a coin the second a moment happens. The crowd decides what lasts.**
+Play-money prototype. Every trader except you is a bot.
 
-Clutch is a play-money moment market for sports, in the style of memecoins. Anyone can launch a coin on a moment, like a walk-off, a 13-second knockout or a breakout rookie game. Prices move on a bonding curve, and the moments the crowd backs graduate to a Hall of Fame.
+## Put it online (pick one, ~2 minutes)
+- **Netlify Drop:** go to app.netlify.com/drop and drag this whole folder onto the page. You get a link immediately.
+- **Vercel:** `npx vercel` inside this folder, accept the defaults.
+- **GitHub Pages:** push the folder to a repo, then Settings → Pages → deploy from the main branch.
 
-**Live demo:** https://alagiewon.github.io/clutch-app/
+Keep all files together: the page loads `coins.json` (the board) and `trending.json` (the Trending tab) from the same folder.
 
-<p>
-  <img src="01-board.png" width="240" alt="Live board">
-  <img src="02-coin.png" width="240" alt="Coin page">
-</p>
+## Put it on your phone
+- **iPhone:** open the link in Safari → Share → Add to Home Screen. It opens full screen with the Clutch icon.
+- **Android:** open the link in Chrome → ⋮ → Add to Home screen (or Install app).
 
-## What it does
+## What works where
+| Feature | Shared Claude link | Self-hosted copy |
+|---|---|---|
+| The game, charts, Hall pot, dumps | yes | yes |
+| Intro, missions | yes | yes (saved on the device) |
+| Tester leaderboard | yes | no |
+| Feedback + answers reaching you | yes (inbox in Demo settings) | only if you set `FEEDBACK_URL` |
 
-- **Live board.** Shows new launches, live buys and sells, King of the Hill, and a Trending now rail of moments nobody has launched yet.
-- **Two kinds of coin:**
-  - **Career bets** follow a player's rise over time.
-  - **Moment relics** capture a single viral play.
+To collect feedback from a self-hosted copy, make a free form (Tally or Google Forms), then in `index.html`
+search for `const FEEDBACK_URL=""` and paste the form link between the quotes.
 
-  Coins stay tied to their player or team, so they can pump again on new milestones.
-- **Bonding-curve pricing.** Each coin has a market cap, a raise target and a holder count, and it graduates when it hits its target.
-- **Simulated market.** Bot traders (set to Chill, Live or Frenzy) make the board feel alive in a single-player prototype.
-- **IP-safe card art.** You can choose pictograms, AI illustrations of anonymous athletes, or ticker cards, plus a mock "licensed preview" mode. No team logos are used.
+## Keeping coins fresh
+Replace `coins.json` and `trending.json` with the latest versions from the Claude artifact (the daily routine updates them there).
+Coins older than about two weeks drop off the board automatically unless a player holds them.
 
-## Tech
-
-- The app is a single HTML file with vanilla JavaScript, CSS, and Canvas charts. There are no frameworks or build step.
-- State is saved in the browser. Every player starts with $1,000 of play money.
-
-## Status
-
-This is a concept prototype and personal project. It uses **play money only**: there's no real currency, crypto or wallet.
-
-Built by Alagie · prototyped with Claude as a coding partner.
+Notes: vibration works on Android only (iPhone browsers don't allow it). Sound starts after the first tap.

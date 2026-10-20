@@ -1,0 +1,569 @@
+{
+ "updated": "2026-10-20T08:00:00-04:00",
+ "coins": [
+  {
+   "ticker": "HUNTER2WAY",
+   "athlete": "Travis Hunter",
+   "name": "Travis Hunter catches a TD and picks off Stroud in the end zone in London",
+   "line": "The Jaguars two-way star does both in one game, but Houston wins it 34-31 on Ka'imi Fairbairn's 49-yard field goal as time expires.",
+   "sport": "Football",
+   "cat": "career",
+   "play": "catch",
+   "sb": {
+    "a": "JAX",
+    "as": 31,
+    "b": "HOU",
+    "bs": 34
+   },
+   "clock": "Q4 · 0:00",
+   "date": "Oct 18, 2026",
+   "stat": "Rec TD + INT, first since Brian Dawkins in 2002 · Fairbairn 49-yd FG at the gun",
+   "thesis": "Games like this make the two-way role a weekly fixture, not a novelty.",
+   "fresh": true,
+   "source": {
+    "name": "The Ringer",
+    "url": "https://www.theringer.com/2026/10/18/nfl/winners-and-losers-week-6-texans-travis-hunter-caleb-williams-rams"
+   },
+   "pat": "stripes",
+   "pal": "jersey",
+   "creator": "draftnerd99",
+   "ageMin": 95,
+   "target": 0.86,
+   "fate": 0.85
+  },
+  {
+   "ticker": "BREWSWEEP",
+   "athlete": "Garrett Mitchell",
+   "name": "Garrett Mitchell's go-ahead homer finishes a Brewers sweep of the Dodgers",
+   "line": "Down 4-0 after Shohei Ohtani's three-run shot, Milwaukee comes back to sweep the two-time defending champions and reach its first World Series since 1982.",
+   "sport": "Baseball",
+   "cat": "relic",
+   "play": "swing",
+   "sb": {
+    "a": "LAD",
+    "as": 4,
+    "b": "MIL",
+    "bs": 6
+   },
+   "clock": "FINAL",
+   "date": "Oct 15, 2026",
+   "stat": "409-ft go-ahead HR in the 6th · First World Series since 1982",
+   "fresh": true,
+   "source": {
+    "name": "NBC Los Angeles",
+    "url": "https://www.nbclosangeles.com/news/sports/dodgers-brewers-nlcs-game-4/3956918/"
+   },
+   "pat": "rays",
+   "pal": "gold",
+   "creator": "gameday_gus",
+   "ageMin": 220,
+   "target": 1.25,
+   "fate": 0.85
+  },
+  {
+   "ticker": "VALKSWEEP",
+   "athlete": "Gabby Williams",
+   "name": "The Valkyries sweep the champion Aces in overtime to reach the Finals in Year 2",
+   "line": "Golden State outscores Las Vegas 16-6 in OT of Game 3, with Gabby Williams scoring eight of her 16 in the extra period.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "celebrate",
+   "sb": {
+    "a": "GSV",
+    "as": 87,
+    "b": "LVA",
+    "bs": 77
+   },
+   "clock": "OT · FINAL",
+   "date": "Oct 9, 2026",
+   "stat": "3-0 sweep of the champs · Fastest expansion team to the Finals",
+   "source": {
+    "name": "KSL (AP)",
+    "url": "https://www.ksl.com/article/51634724/valkyries-secure-wnba-finals-spot-with-ot-win-over-the-aces-face-the-dream-next"
+   },
+   "pat": "court",
+   "pal": "gold",
+   "creator": "courtsidecarl",
+   "ageMin": 240,
+   "target": 1.15,
+   "fate": 0.8
+  },
+  {
+   "ticker": "BRADYHAT",
+   "athlete": "Brady Tkachuk",
+   "name": "Brady Tkachuk's second straight natural hat trick ends in overtime",
+   "line": "He scores all three Panthers goals, including the OT winner over Vancouver, two days after a natural hat trick in Columbus.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "sb": {
+    "a": "FLA",
+    "as": 3,
+    "b": "VAN",
+    "bs": 2
+   },
+   "clock": "OT · FINAL",
+   "date": "Oct 15, 2026",
+   "stat": "Back-to-back natural hats · First since Petri Skriko in 1986",
+   "fresh": true,
+   "source": {
+    "name": "Daily Faceoff",
+    "url": "https://www.dailyfaceoff.com/news/florida-panthers-brady-tkachuk-first-player-consecutive-natural-hat-trick-nhl-news"
+   },
+   "pat": "rings",
+   "pal": "red",
+   "creator": "benchmob",
+   "ageMin": 180,
+   "target": 1.08,
+   "fate": 0.8
+  },
+  {
+   "ticker": "PANTHERS3",
+   "athlete": "Carter Verhaeghe",
+   "name": "Verhaeghe makes it three straight Panthers games with a natural hat trick",
+   "line": "Carter Verhaeghe scores three in a row and Sam Bennett adds his own hat trick as Florida routs Seattle 8-3.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "sb": {
+    "a": "SEA",
+    "as": 3,
+    "b": "FLA",
+    "bs": 8
+   },
+   "clock": "FINAL",
+   "date": "Oct 17, 2026",
+   "stat": "NHL first: natural hats in 3 straight games · Bennett reaches 400 points",
+   "fresh": true,
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/seattle-kraken-florida-panthers-game-recap-october-17-2026"
+   },
+   "pat": "halftone",
+   "pal": "red",
+   "creator": "stat_padder",
+   "ageMin": 60,
+   "target": 0.74,
+   "fate": 0.8
+  },
+  {
+   "ticker": "RAZZ7",
+   "athlete": "Drew Rasmussen",
+   "name": "Drew Rasmussen throws seven strong innings as Rays beat Guardians 3-1 in ALCS Game 5",
+   "line": "Tampa Bay scores in each of the first three innings in Cleveland and moves one win from the World Series.",
+   "sport": "Baseball",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "TB",
+    "as": 3,
+    "b": "CLE",
+    "bs": 1
+   },
+   "clock": "FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "7 IP, 1 R, 6 K · Bryan Baker's 35th straight save",
+   "fresh": true,
+   "source": {
+    "name": "Yahoo Sports (AP)",
+    "url": "https://sports.yahoo.com/articles/rasmussen-shines-rays-beat-guardians-004033183.html"
+   },
+   "pat": "rays",
+   "pal": "jersey",
+   "creator": "boxscorebenny",
+   "ageMin": 44,
+   "target": 0.58,
+   "fate": 0.7
+  },
+  {
+   "ticker": "FELLHAUER8",
+   "athlete": "Robin Fellhauer",
+   "name": "Augsburg score after 8 seconds off a Manuel Neuer clearance",
+   "line": "Bayern kick off, pass back to Neuer, and Robin Fellhauer blocks his chipped clearance into the empty net. The match ends 2-2.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "FCA",
+    "as": 2,
+    "b": "FCB",
+    "bs": 2
+   },
+   "clock": "0:08",
+   "date": "Oct 10, 2026",
+   "stat": "Fastest Bundesliga goal ever · Old record 9 seconds",
+   "source": {
+    "name": "AJC (AP)",
+    "url": "https://www.ajc.com/news/2026/10/8-seconds-augsburg-scores-fastest-bundesliga-goal-after-manuel-neuer-blunder/"
+   },
+   "pat": "stripes",
+   "pal": "flood",
+   "creator": "xg_merchant",
+   "ageMin": 150,
+   "target": 0.92,
+   "fate": 0.8
+  },
+  {
+   "ticker": "VINIRED",
+   "athlete": "Vinícius Júnior",
+   "name": "Vinícius scores, then VAR finds a hair pull and sends him off",
+   "line": "Off the bench against Villarreal, his goal is wiped out after a review shows he pulled Nathan Saliba's hair. Yan Diomande's goal wins it 1-0.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "clash",
+   "sb": {
+    "a": "RMA",
+    "as": 1,
+    "b": "VIL",
+    "bs": 0
+   },
+   "clock": "FT",
+   "date": "Oct 10, 2026",
+   "stat": "Goal voided · Red card",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull"
+   },
+   "pat": "rays",
+   "pal": "red",
+   "creator": "ultras_uli",
+   "ageMin": 130,
+   "target": 0.82,
+   "fate": 0.75
+  },
+  {
+   "ticker": "PAPERPLANES",
+   "athlete": "",
+   "name": "Rayo fans' paper-plane protest gets the Athletic match suspended",
+   "line": "Objects first rain down in the 13th minute. Play restarts in the 24th, the paper planes and rubber balls come back, and the referee calls it off.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "clash",
+   "sb": {
+    "a": "RAY",
+    "as": 0,
+    "b": "ATH",
+    "bs": 0
+   },
+   "clock": "Suspended",
+   "date": "Oct 10, 2026",
+   "stat": "Halted in the 13th · Called off after the 24th",
+   "source": {
+    "name": "Flashscore",
+    "url": "https://www.flashscore.com/news/rayo-vallecano-clash-with-athletic-club-suspended-after-fan-protest/2kYdtUBF/"
+   },
+   "pat": "halftone",
+   "pal": "red",
+   "creator": "pitchside_pia",
+   "ageMin": 110,
+   "target": 0.48,
+   "fate": 0.6
+  },
+  {
+   "ticker": "HURKACZ9",
+   "athlete": "Hubert Hurkacz",
+   "name": "Hubert Hurkacz beats Novak Djokovic for the first time in nine tries",
+   "line": "6-4, 6-3 in 87 minutes in Shanghai, with Djokovic playing his sixth match in 10 days after winning the Beijing title.",
+   "sport": "Tennis",
+   "cat": "relic",
+   "play": "serve",
+   "sb": {
+    "a": "HUR",
+    "as": 2,
+    "b": "DJO",
+    "bs": 0
+   },
+   "clock": "Sets · FINAL",
+   "date": "Oct 9, 2026",
+   "stat": "0-8 before this match · 82% of first-serve points won",
+   "source": {
+    "name": "ATP Tour",
+    "url": "https://www.atptour.com/en/news/djokovic-hurkacz-shanghai-2026-friday"
+   },
+   "pat": "court",
+   "pal": "ice",
+   "creator": "the_ringer",
+   "ageMin": 170,
+   "target": 0.4,
+   "fate": 0.55
+  },
+  {
+   "ticker": "MALOTTKO",
+   "athlete": "Mike Malott",
+   "name": "Mike Malott knocks out Joaquin Buckley in his first main event",
+   "line": "Headlining in Edmonton, the Canadian welterweight finishes Buckley in the second round for his fifth straight win.",
+   "sport": "Combat",
+   "cat": "career",
+   "play": "punch",
+   "sb": null,
+   "clock": "R2 · 2:32",
+   "date": "Oct 17, 2026",
+   "stat": "KO/TKO · Fifth straight win",
+   "thesis": "A headline KO like this puts him in the welterweight top 10.",
+   "fresh": true,
+   "source": {
+    "name": "UFC",
+    "url": "https://www.ufc.com/event/ufc-fight-night-october-17-2026"
+   },
+   "pat": "rays",
+   "pal": "gold",
+   "creator": "tank_commander",
+   "ageMin": 35,
+   "target": 0.63,
+   "fate": 0.75
+  },
+  {
+   "ticker": "MAJAWINS",
+   "athlete": "Maja Chwalińska",
+   "name": "Maja Chwalińska rallies past Sonay Kartal for her first WTA title in Wuhan",
+   "line": "Down a set and a break, the No. 16 seed wins 2-6, 6-4, 6-2 in 2 hours 43 minutes, taking the last four games.",
+   "sport": "Tennis",
+   "cat": "career",
+   "play": "serve",
+   "sb": null,
+   "clock": "FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "First title comes at WTA 1000 level · 4th player since 2009 to do it",
+   "thesis": "A Roland Garros final and now a WTA 1000 crown put her on track for the Top 10.",
+   "fresh": true,
+   "source": {
+    "name": "WTA",
+    "url": "https://www.wtatennis.com/news/4593967/chwalinska-rallies-past-kartal-for-first-wta-title-in-wuhan"
+   },
+   "pat": "court",
+   "pal": "flood",
+   "creator": "scout_77",
+   "ageMin": 70,
+   "target": 0.36,
+   "fate": 0.6
+  },
+  {
+   "ticker": "MADUEKE80",
+   "athlete": "Noni Madueke",
+   "name": "Noni Madueke's deflected 80th-minute strike wins it for Arsenal at Forest",
+   "line": "His sharp-angle shot clips Jair Cunha and beats Matz Sels for the only goal at the City Ground.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "NFO",
+    "as": 0,
+    "b": "ARS",
+    "bs": 1
+   },
+   "clock": "FT",
+   "date": "Oct 18, 2026",
+   "stat": "Arsenal had ~75% possession · 3 pts behind leaders Man City",
+   "fresh": true,
+   "source": {
+    "name": "NBC Sports",
+    "url": "https://www.nbcsports.com/soccer/live/nottingham-forest-vs-arsenal-live-updates-score-goals-highlights-stats-2026-october-18"
+   },
+   "pat": "stripes",
+   "pal": "red",
+   "creator": "cornerflag",
+   "ageMin": 28,
+   "target": 0.44,
+   "fate": 0.6
+  },
+  {
+   "ticker": "BERNARDOT",
+   "athlete": "Germie Bernard",
+   "name": "Aaron Rodgers hits Germie Bernard in overtime as Steelers beat Bucs 26-19",
+   "line": "Pittsburgh rallies from 16-3 down in the fourth, then Rodgers drives 70 yards in OT and Jalen Ramsey's fourth-down sack ends it.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "sb": {
+    "a": "TB",
+    "as": 19,
+    "b": "PIT",
+    "bs": 26
+   },
+   "clock": "OT · FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "Rodgers 33/49, 253 yds, 2 TD · Bernard 11 catches",
+   "fresh": true,
+   "source": {
+    "name": "NBC Sports / PFT",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-pull-out-26-19-win-over-bucs-in-overtime"
+   },
+   "pat": "court",
+   "pal": "gold",
+   "creator": "sideline_sue",
+   "ageMin": 52,
+   "target": 0.5,
+   "fate": 0.65
+  },
+  {
+   "ticker": "MCDAVID23",
+   "athlete": "Connor McDavid",
+   "name": "Connor McDavid posts five points as Oilers rout the Mammoth 6-2",
+   "line": "Two goals and three assists push his season-opening point streak to eight games.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "sb": {
+    "a": "EDM",
+    "as": 6,
+    "b": "UTA",
+    "bs": 2
+   },
+   "clock": "FINAL",
+   "date": "Oct 17, 2026",
+   "stat": "NHL-leading 23 points · 17 assists in 8 games",
+   "fresh": true,
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/edmonton-oilers-utah-mammoth-game-recap-october-17-2026"
+   },
+   "pat": "rings",
+   "pal": "ice",
+   "creator": "benchmob",
+   "ageMin": 88,
+   "target": 0.69,
+   "fate": 0.75
+  },
+  {
+   "ticker": "JJRELIEF",
+   "athlete": "J.J. McCarthy",
+   "name": "J.J. McCarthy replaces benched Jameis Winston and nearly rallies Giants from 34-10 down",
+   "line": "He leads three touchdown drives and gets New York within seven in the final minute. John Harbaugh won't name a starter yet.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "sb": {
+    "a": "NO",
+    "as": 34,
+    "b": "NYG",
+    "bs": 27
+   },
+   "clock": "FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "McCarthy 243 pass yds, 1 TD · Winston 2 INT",
+   "fresh": true,
+   "source": {
+    "name": "NFL.com",
+    "url": "https://nfl.com/news/john-harbaugh-no-giants-qb-decision-yet-after-j-j-mccarthy-replaces-jameis-winston-vs-saints"
+   },
+   "pat": "stripes",
+   "pal": "jersey",
+   "creator": "hot_take_hal",
+   "ageMin": 40,
+   "target": 0.34,
+   "fate": 0.6
+  },
+  {
+   "ticker": "NANTZPUNCH",
+   "athlete": "Jim Nantz",
+   "name": "Jim Nantz throws an on-air peanut punch at a football on J.J. Watt's dare",
+   "line": "The CBS voice takes Watt's prompt and swings at the ball during the broadcast, and the clip makes the rounds all Sunday.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "punch",
+   "sb": null,
+   "clock": "CBS broadcast",
+   "date": "Oct 18, 2026",
+   "stat": "Prompted by J.J. Watt · Week 6 Sunday on CBS",
+   "fresh": true,
+   "source": {
+    "name": "The Ringer",
+    "url": "https://www.theringer.com/2026/10/18/nfl/winners-and-losers-week-6-texans-travis-hunter-caleb-williams-rams"
+   },
+   "pat": "halftone",
+   "pal": "gold",
+   "creator": "jumbotron_jo",
+   "ageMin": 22,
+   "target": 0.55,
+   "fate": 0.75
+  },
+  {
+   "ticker": "SHOVEL",
+   "athlete": "Josh Allen",
+   "name": "Josh Allen flips a backhanded shovel TD to Keon Coleman as Bills edge Raiders 33-30",
+   "line": "Buffalo scores on seven of nine full drives, and James Cook's 3-yard run breaks a 23-23 tie.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "sb": {
+    "a": "BUF",
+    "as": 33,
+    "b": "LV",
+    "bs": 30
+   },
+   "clock": "FINAL",
+   "date": "Oct 18, 2026",
+   "stat": "Scores on 7 of 9 full drives · Backhand shovel TD to Coleman",
+   "fresh": true,
+   "source": {
+    "name": "The Ringer",
+    "url": "https://www.theringer.com/2026/10/18/nfl/winners-and-losers-week-6-texans-travis-hunter-caleb-williams-rams"
+   },
+   "pat": "rays",
+   "pal": "jersey",
+   "creator": "parlay_pete",
+   "ageMin": 16,
+   "target": 0.27,
+   "fate": 0.55
+  },
+  {
+   "ticker": "STANKY3",
+   "athlete": "Logan Stankoven",
+   "name": "Logan Stankoven's first hat trick: shorthanded, power play and even strength",
+   "line": "Three straight goals in Carolina's 7-2 win over Vancouver, one in each strength state.",
+   "sport": "Hockey",
+   "cat": "career",
+   "play": "slapshot",
+   "sb": {
+    "a": "VAN",
+    "as": 2,
+    "b": "CAR",
+    "bs": 7
+   },
+   "clock": "FINAL",
+   "date": "Oct 8, 2026",
+   "stat": "Natural hat trick · 4th Hurricane with SH, PP and EV goals in one game",
+   "thesis": "Scoring in every situation marks him as a first-line forward for years.",
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/vancouver-canucks-carolina-hurricanes-game-recap-october-8-2026"
+   },
+   "pat": "rings",
+   "pal": "ice",
+   "creator": "filmroom_fi",
+   "ageMin": 200,
+   "target": 0.3,
+   "fate": 0.55
+  },
+  {
+   "ticker": "GABBY26",
+   "athlete": "Gabby Williams",
+   "name": "Gabby Williams scores 26 as the Valkyries take Game 1 of the WNBA Finals",
+   "line": "Golden State holds Atlanta to eight points in the fourth quarter and wins 68-64 at Chase Center.",
+   "sport": "Basketball",
+   "cat": "career",
+   "play": "shot",
+   "sb": {
+    "a": "ATL",
+    "as": 64,
+    "b": "GSV",
+    "bs": 68
+   },
+   "clock": "FINAL",
+   "date": "Oct 17, 2026",
+   "stat": "26 PTS, 7-of-8 FT · Dream held to 8 in the 4th",
+   "thesis": "A Finals scoring night like this makes her a Valkyries cornerstone.",
+   "fresh": true,
+   "source": {
+    "name": "CBS Sports",
+    "url": "https://www.cbssports.com/wnba/news/wnba-finals-game-2-score-valkyries-dream-live-updates/live/"
+   },
+   "pat": "court",
+   "pal": "gold",
+   "creator": "courtsidecarl",
+   "ageMin": 75,
+   "target": 0.6,
+   "fate": 0.7
+  }
+ ]
+}
